@@ -8,7 +8,7 @@ var tour = {
   steps: [
     {
       target: 'helm',
-      title: 'Welcome to Helm!',
+      title: 'Welcome to Helm Station',
       content: 'Hey there! This is a quick tour of helm controls to get you started fast.',
       placement: 'bottom',
       xOffset: 'center',
@@ -42,13 +42,13 @@ var tour = {
       target: 'cam',
       placement: 'left',
       title: 'Camera',
-      content: 'At the captain\'s request, change main screen view here.  Most of the time, you\'ll be using <b>FRONT VIEW</b>, <b>TAC</b>(tical), and <b>LRS</b>.',
+      content: 'At the captain\'s request, change the main screen view here. Most of the time, you\'ll use: <ul><li><b>FRONT VIEW</b></li><li><b>TAC</b>(tical)</li><li><b>LRS</b></li></ul>',
     },
     {
       target: 'rightSidebar',
       placement: 'left',
       title: 'Sidebar',
-      content: 'For: <ol><li><b>Docking</b> when you\'re close to a DS station</li><li><b>Reverse</b> direction</li><li><b>Shields</b> (turn off when warping to save energy</li><li><b>Zoom</b></li></ol>'
+      content: 'For: <ol><li><b>Docking</b> when you\'re close to a DS station</li><li><b>Reverse</b> direction</li><li><b>Shields</b> (turn off during warp to save energy)</li><li><b>Zoom</b></li></ol>'
     },
     {
       target: 'helm',
