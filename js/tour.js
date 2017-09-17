@@ -91,7 +91,7 @@ init = function() {
         id: calloutId,
         target: startBtnId,
         placement: 'right',
-        title: 'Take a tour of Helm',
+        title: 'Take a tour of Helm Station',
         arrowOffset: 'center',
         width: 170
       });
