@@ -24,8 +24,7 @@ var tour = {
       target: 'warp',
       placement: 'right',
       title: 'Warp Slider (Green)',
-      content: 'For travelling fast in a sector.',
-      yOffset: -25
+      content: 'For travelling fast in a sector.'
     },
     {
       target: 'impulse',
