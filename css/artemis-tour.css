@@ -1,0 +1,78 @@
+body {
+  height: 100%;
+  margin: 0 0 0 0;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+}
+
+.stretch {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    overflow: auto;
+}
+
+.container {
+    position: relative;  
+    width: 100%; 
+    min-height: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.tag {
+   position: absolute;
+   background-color: white;
+   height: 0px;
+   padding: 5px;
+   visibility: hidden;
+}
+
+#helm {
+   top: 3%;
+   left: 13%;
+}
+
+#inventory {
+   top: 8%;
+   left: 15%; 
+}
+
+#warp {
+   bottom: 15%;
+   left: 0%; 
+}
+
+#impulse {
+   bottom: 15%;
+   left: 2%; 
+}
+
+#direction {
+   top: 35%;
+   left: 45%; 
+}
+
+#cam {
+   top: 15%;
+   right: 18%; 
+}
+
+#rightSidebar {
+   top: 44%;
+   right: 8%; 
+}
+
+#startTourDiv {
+   top: 10%;
+   left: 43%;
+   background: transparent;
+}
