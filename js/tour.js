@@ -18,7 +18,7 @@ var tour = {
       target: 'inventory',
       placement: 'right',
       title: 'Inventory',
-      content: 'This shows the status of your: <ol><li><b>Energy</b></li><li><b>Shields</b></li><li><b>Ordnance</b> (you have 5 types of torpedoes)</li></ol>'
+      content: 'This shows the status of your: <ol><li><b>Energy</b></li><li><b>Shields</b></li><li><b>Ordnance</b> (Homing, Nuke, Mine, EMP, Pshock torpedoes)</li></ol>'
     },
     {
       target: 'warp',
